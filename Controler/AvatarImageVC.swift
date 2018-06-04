@@ -65,17 +65,7 @@ class AvatarImageVC: UIViewController , UICollectionViewDelegate , UICollectionV
         }
         self.dismiss(animated: true, completion: nil)
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     
     
     
